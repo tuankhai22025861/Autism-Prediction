@@ -11,4 +11,4 @@ Xây dựng mô hình học máy hỗ trợ sàng lọc sớm rối loạn phổ
 
 ## 🔗 Link code trên Google Colab
 👉 [Xem tại đây](https://colab.research.google.com/drive/17XEAt5ldScc7BNvJzEoTTyqhgKt5HWdl?usp=sharing)
-👉 [Xem tại đây](https://colab.research.google.com/drive/170jVoXIBVqlXj3YiWlxyjP-Lx5dTzWV1?usp=sharing)
+👉 [Xem tại đây bản 2](https://colab.research.google.com/drive/170jVoXIBVqlXj3YiWlxyjP-Lx5dTzWV1?usp=sharing)
