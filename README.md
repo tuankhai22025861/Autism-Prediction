@@ -10,5 +10,5 @@ Xây dựng mô hình học máy hỗ trợ sàng lọc sớm rối loạn phổ
 - **Triển khai ứng dụng**: Tạo giao diện nhập liệu và dự đoán trực tiếp bằng **Streamlit**, kết hợp mô hình `.pkl` và bộ mã hóa đã huấn luyện.
 
 ## 🔗 Link code trên Google Colab
-👉 [Xem tại đây](https://colab.research.google.com/drive/17XEAt5ldScc7BNvJzEoTTyqhgKt5HWdl?usp=sharing)
-👉 [Xem tại đây bản 2](https://colab.research.google.com/drive/170jVoXIBVqlXj3YiWlxyjP-Lx5dTzWV1?usp=sharing)
+👉 [Xem bản 2 tại đây](https://colab.research.google.com/drive/17XEAt5ldScc7BNvJzEoTTyqhgKt5HWdl?usp=sharing)
+
